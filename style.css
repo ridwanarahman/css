@@ -2,6 +2,81 @@
  * You should write your CSS in this file.  Don't forget to add your name and
  * @oregonstate.edu email address below.
  *
- * name:
- * email:
+ * name: Ridwana Rahman
+ * email: rahmanr@oregonstate.edu
  */
+
+.header-image-container{
+   width: 300px;
+   height: 200px;
+   background-color: black;
+   padding: 5px;
+   border: 5px solid black;
+   border-bottom:0;
+}
+
+.site-title{
+   font-family: 'Roboto', sans-serif;
+   color: white;
+   font-size: 20px;
+   font-weight: 900;
+}
+
+.content{
+}
+
+.filter-container{
+   width: 100px;
+   height: 600px;
+   background-color: grey;
+   padding: 5px;
+   border: 5px white;
+   border-bottom: 0;
+}
+
+.filter-input-container{
+   width: 70px;
+   height: 20px;
+   background-color: white;
+   padding: 10px;
+   border: 5px grey;
+}
+
+.filter-input-element{
+}
+
+.filter-input-container{
+}
+
+.filter-input-label{
+}
+
+.filter-input{
+}
+
+.filter-fieldset{
+}
+
+.action-button{
+}
+
+.result{
+}
+
+.result-contents{
+}
+
+.result-image-container{
+}
+
+.result-info-container{
+}
+
+.result-title{
+}
+
+.result-price{
+
+}
+
+.result-city{
