@@ -6,13 +6,18 @@
  * email: rahmanr@oregonstate.edu
  */
 
+header{
+
+}
+
 .header-image-container{
-   width: 300px;
+   width: 100px;
    height: 200px;
    background-color: black;
    padding: 5px;
    border: 5px solid black;
-   border-bottom:0;
+   border-bottom: 0;
+   display: inline-flex;   
 }
 
 .site-title{
@@ -77,6 +82,24 @@
 
 .result-price{
 
+}
+
+h1 a{
+}
+
+a:link{
+}
+
+.content{
+}
+
+.action-button{
+}
+
+.action-button:hover {
+}
+
+.reult-title:hover {
 }
 
 .result-city{
