@@ -137,8 +137,7 @@ h2{
     height: 250px;
     vertical-align: middle;
     width: 250px;
-    top: 127px;
-    
+    top: 127px; 
 }
 
 .result-image-container img{
@@ -195,7 +194,6 @@ h2{
     border: none;
     border-radius: 3px;
     padding: 5px;
-    
 }
 
 #filter-city{
