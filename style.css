@@ -23,7 +23,6 @@ body{
 .header-image-container{
    width: 75%;
    height: 125px;
-
    border-bottom: 0;
    display: inline-flex;
    flex-direction: row;
