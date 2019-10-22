@@ -39,13 +39,6 @@ body{
     width: 14%;
     height: 95%;
 }
-/*
-.site-title a{
-    font-family: Roboto Slab;
-    font: "Roboto Slab";
-    position: relative;
-}
-*/
 
 .site-title a{
     font-family: Roboto Slab;
@@ -70,9 +63,6 @@ a: link{
 a: hover{
     text-decoration: underline;
 }
-.content{
-
-}
 
 .filter-container{
     
@@ -82,7 +72,6 @@ a: hover{
    width: 200px;
    height: 337px;
    background-color: #ECECEC;
-   /*padding: 10px 10px;*/
    border: 5px;
    border-bottom: 0;
    border-radius: 3px;
@@ -101,27 +90,21 @@ h2{
 }
 
 .filter-input-container{
-    display: inline-flex;
-    font-family: Roboto;
    width: 130px;
    height: 20px;
    position: relative;
-   /*top: 10px;*/
-   /*background-color: white;*/
-   /*padding: 10px;*/
    text-align: left;
    font-size: 14px;
-   /*border: 1px solid black;*/
-   /*padding: 0px ;*/
    vertical-align: text-bottom;
    padding: 5px 10px 5px 10px;
+   display: inline-flex;
+   font-family: Roboto;
 }
 
 #filter-text{
     font-family: Roboto;
     font-size: 20px;
     display: inline-flex;
-    /*padding-bottom: 5px;*/
     width: 110px;
     border-radius: 3px;
     border: none;
@@ -160,26 +143,17 @@ h2{
     
 }
 
-.result-contents{
-
-}
-
 .result-image-container img{
     display: block;
     width: 90%;
     height: 90%;
     margin-left: auto;
     margin-right: auto;
-
-
 }
 
 .result-city{
     font-family: Roboto;
     font-size: 13px;
-}
-.result-info-container{
-
 }
 
 .result-title{
@@ -197,7 +171,6 @@ h2{
     text-decoration: underline;
 }
 
-
 .result-price{
     border-color: grey;
     border-width: 1px;
@@ -208,33 +181,19 @@ h2{
     font-family: Roboto;
     padding: 2px;
 }
-/*#filter-text{
-    display: inline-flex;
-    width: 130px;
-    margin: 5px 0px 0px 5px;
-    border: none;
-    border-radius: 3px;
-    padding-bottom: 15px;
-    
-}
-*/
+
 #filter-min-price{
     display: inline-flex;
     width: 38px;
-    /*padding: 5px 10px 5px 5px;*/
     border: none;
     border-radius: 3px;
     padding: 5px;
-    
-    
-
 }
 
 #filter-max-price{
     display: inline-flex;
     width: 38px;
     margin-left: 10px;
-    /*padding: 5px 5px 5px 5px;*/
     border: none;
     border-radius: 3px;
     padding: 5px;
@@ -245,16 +204,9 @@ h2{
     font-family: Roboto;
     margin-left: 15px;
     display: inline-flex;
-    /*padding-bottom: 5px;*/
     width: 120px;
     border-radius: 3px;
     border: none;
-    
-    /*
-    display: inline-flex;
-    width: 125px;
-    
-    margin-left: 10px;*/
 }
 
 #filter-condition{
@@ -285,15 +237,11 @@ h2{
     border-radius: 3px;
 }
 
-#results{
-   
-}
 .result-title: :hover{
     text-decoration: underline;
 }
 
 .filter-fieldset{
-    /*display: block;*/
     width: 200px;
     height: 105px;
     border: solid;
@@ -306,13 +254,12 @@ h2{
     padding-top: 5px;
     padding-bottom: 2px;
     padding-left: 15px;
-
- 
 }
 
 .fas fa-plus{
    size: 60px;
 }
+
 #sell-something-button{
     position: fixed;
     background-color: #f36d16;
